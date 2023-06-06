@@ -52,7 +52,7 @@ export default (props: Props) => {
           <div>
             <textarea
               ref={systemInputRef!}
-              placeholder="你是个乐于助人的助手，设置助手的行为..."
+              placeholder="你是个乐于助人的助手，回答尽量简明扼要..."
               autocomplete="off"
               autofocus
               rows="3"
